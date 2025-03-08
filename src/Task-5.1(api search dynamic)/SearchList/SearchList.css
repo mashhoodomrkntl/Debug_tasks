@@ -1,0 +1,15 @@
+.search-list-container{
+    max-height: 400px;
+    overflow: auto;
+    scrollbar-width: thin;
+}
+
+.search-items{
+    display: flex;
+    gap: 5px;
+    background-color: rgb(90, 88, 86);
+    padding: 10px;
+    color: white;
+    word-break: break-all;
+    margin-top: 4px;
+}
