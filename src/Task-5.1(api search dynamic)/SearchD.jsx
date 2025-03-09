@@ -45,7 +45,7 @@ const SearchD = () => {
   }, [searchInputValue]);
   return (
     <div className="search-container">
-      <div className="heading-section">
+      <div className="heading-section"> 
         <img src="" alt="" />
         <h1>Looking for a movie ?</h1>
       </div>
